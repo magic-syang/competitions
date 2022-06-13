@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        // {
+        //     "name": "Win32",
+        //     "compilerPath": "C:\\ProgramData\\chocolatey\\lib\\mingw\\tools\\install\\mingw64\\bin\\g++.exe",
+        //     "includePath": [
+        //         "C:\\ProgramData\\chocolatey\\lib\\mingw\\tools\\install\\mingw64\\include"
+        //     ],
+        //     "defines": [
+        //         "_DEBUG",
+        //         "UNICODE",
+        //         "_UNICODE"
+        //     ],
+        //     "windowsSdkVersion": "10.0.19041.0",
+        //     "cStandard": "c17",
+        //     "cppStandard": "c++17",
+        //     "intelliSenseMode": "${default}"
+        // },
+        {
+            "name": "Clang",
+            "compilerPath": "C:\\Program Files\\LLVM\\bin\\clang-cl.exe",
+            "includePath": [
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

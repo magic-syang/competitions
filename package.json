@@ -1,0 +1,6 @@
+{
+    "name": "my scripts",
+    "scripts": {
+        "sync":".\\scripts\\sync.cmd"
+    }
+}
